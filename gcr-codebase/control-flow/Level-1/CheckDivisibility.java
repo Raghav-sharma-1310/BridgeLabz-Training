@@ -8,9 +8,9 @@ class CheckDivisibility{
        int number = input.nextInt();
 
        // Check divisibility by 5 using modulus operator
-       boolean isdivisible = (number % 5 == 0);
+       boolean isDivisible = (number % 5 == 0);
 
        // Display the result
-       System.out.println("Is the number " + number + " divisible by 5? " + isdivisible);
+       System.out.println("Is the number " + number + " divisible by 5? " + isDivisible);
     }
 }
