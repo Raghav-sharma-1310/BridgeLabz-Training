@@ -8,7 +8,7 @@ public class CheckSumEquality{
        int sum = 0;
        int i = 1;
 
-       // Checking whether number is natural number or not and compute sum.
+       // Checking whether number is natural number or not and compare sums
        if(number > 0){
           int sumByFormula = number * (number + 1) / 2;
           while(number >= i){
