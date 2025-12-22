@@ -13,7 +13,6 @@ public class GeometryCalculator {
     }
 
     // Method to calculate slope (m) and y-intercept (b)
-    // Returns array: index 0 -> slope (m), index 1 -> intercept (b)
     public static double[] calculateLineEquation(
             double x1, double y1, double x2, double y2) {
 
@@ -23,10 +22,8 @@ public class GeometryCalculator {
         return new double[]{slope, intercept};
     }
 
-    // Main method
     public static void main(String[] args) {
 
-        // Input points
         double x1 = 2;
         double y1 = 3;
         double x2 = 6;
