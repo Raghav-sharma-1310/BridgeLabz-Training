@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class CharacterTypeDisplay {
-
+    // Check for character
     public static String checkCharacter(char ch) {
         if (ch >= 'A' && ch <= 'Z') {
             ch = (char) (ch + 32);
@@ -11,6 +11,7 @@ public class CharacterTypeDisplay {
         return "Consonant";
     }
 
+    // Returns a 2D array containing every character
     public static String[][] analyzeCharacters(String text) {
         String[][] result = new String[text.length()][2];
 
@@ -21,6 +22,7 @@ public class CharacterTypeDisplay {
         return result;
     }
 
+    // Display the results in form of table
     public static void displayTable(String[][] data) {
         System.out.println("\nCHARACTER\tTYPE");
         for (String[] row : data) {
@@ -35,5 +37,7 @@ public class CharacterTypeDisplay {
 
         String[][] result = analyzeCharacters(text);
         displayTable(result);
+
+        sc.close();
     }
 }
