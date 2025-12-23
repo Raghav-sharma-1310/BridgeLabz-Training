@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class VowelConsonantCount {
 
+    // Method to check character
     public static String checkCharacter(char ch) {
         if (ch >= 'A' && ch <= 'Z') {
             ch = (char) (ch + 32);
@@ -17,6 +18,7 @@ public class VowelConsonantCount {
         return "Consonant";
     }
 
+    // Method to count vowel and consonants
     public static int[] countVowelsConsonants(String text) {
         int vowels = 0, consonants = 0;
 
