@@ -1,11 +1,13 @@
 public class WordLength2D {
-
+   
+    // Method to find the length of string 
     public static int findLength(String text) {
         int c = 0;
         try { while (true) text.charAt(c++); }
         catch (Exception e) { return c; }
     }
 
+    // Method to spilt words from sentense
     public static String[] splitWords(String text) {
         int count = 1;
         for (int i = 0; i < findLength(text); i++)
@@ -23,6 +25,7 @@ public class WordLength2D {
         return words;
     }
 
+    // Method to find word length 2D array 
     public static String[][] wordLength2D(String[] words) {
         String[][] arr = new String[words.length][2];
         for (int i = 0; i < words.length; i++) {
