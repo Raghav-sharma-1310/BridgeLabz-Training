@@ -2,11 +2,13 @@ import java.util.Scanner;
 
 public class RockPaperScissors {
 
+    // Method to find computer choice
     public static String computerChoice() {
         int r = (int) (Math.random() * 3);
         return r == 0 ? "Rock" : r == 1 ? "Paper" : "Scissors";
     }
 
+   // Method to find winner
     public static String findWinner(String user, String comp) {
         if (user.equals(comp)) return "Draw";
         if ((user.equals("Rock") && comp.equals("Scissors")) ||
