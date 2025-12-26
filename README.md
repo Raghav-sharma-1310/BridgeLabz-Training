@@ -2,7 +2,7 @@
 
 ## 📆 Day 1: Git & GitHub Setup  
 
-**(Date: 16 Dec 2025)**
+**(Date: 15 Dec 2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -32,7 +32,7 @@ BridgeLabz-Training/
 
 ## 📆 Day 2: Git Practice & Basic Java Programs  
 
-**(Date: 17 Dec 2025)**
+**(Date: 16 Dec 2025)**
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -44,7 +44,7 @@ BridgeLabz-Training/
 
 ## 🗓 Day 3 – Programming Elements in Java  
 
-**(Date: 18-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 - Studied Java programming elements:
   - Variables and data types
@@ -59,7 +59,7 @@ BridgeLabz-Training/
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
 
-**(Date: 19-Dec-2025)**
+**(Date: 18-Dec-2025)**
 
 - Studied logical constructs:
   - if, if-else
@@ -81,7 +81,7 @@ BridgeLabz-Training/
 
 ## 🗓 Day 5 – Arrays & Basic Problem Solving  
 
-**(Date: 20-Dec-2025)**
+**(Date: 19-Dec-2025)**
 
 - Studied arrays in java:
    - Single-dimensional
@@ -95,3 +95,65 @@ BridgeLabz-Training/
 
 🔗 **Code Link: [Arrays](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)**  
 
+---
+
+### 🗓 Day 6 – Java Methods
+
+**(Date: 20-Dec-2025)**
+  
+ - Studied Java methods:
+   - Method declaration
+   - Method calling
+   - Parameter passing
+ - Practiced reusable logic using methods.
+ - Implemented programs for reusable methods.
+ - Committed and pushed solutions to the repository.
+  
+🔗 **Code Link: [Methods](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** 
+  
+---
+
+### 🗓 Day 7 – Java Strings
+
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link: [Strings](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** 
+
+---
+
+## 📅 Week 2: Extra programming Fundamentals & practice
+  
+### 🗓 Day 8 – Extra Built-in Functions & String Practice  
+
+**(Date: 23-Dec-2025)**
+  
+- Practiced Java built-in classes such as Math and Random.
+- Worked with date and time handling using Java 8+ date-time APIs:
+  - LocalDate
+  - LocalTime
+  - LocalDateTime
+  - ZonedDateTime
+  - DateTimeFormatter
+- Practiced String concepts including:
+  - Creating strings and taking string input
+  - Escape sequences (\)
+  - String arrays
+  - Strings as method parameters
+  - Built-in String class methods
+  - ASCII character codes
+- Studied Java exception handling concepts:
+  - Java exception hierarchy
+  - Checked and unchecked exceptions
+  - java.lang.RuntimeException
+- Implemented utility programs such as a temperature converter.
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 **Code Link: [Extras](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)**  
