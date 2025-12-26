@@ -157,3 +157,15 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
   
 🔗 **Code Link: [Extras](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)**  
+
+---
+
+### 🗓 Day 9 – Leet Code and Scenario Based problems  
+**(Date: 24-Dec-2025)**
+
+- Practiced and Solved Leet Code questions on Arrays.
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:[Leet-Code](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase), [Scenario-based](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-1)** 
