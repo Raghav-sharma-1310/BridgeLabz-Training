@@ -1,8 +1,9 @@
 package com.constructors.levelone;
 
 public class Book {
-	String title;
-	String author;
+	public String ISBN;
+	protected String title;
+	private String author;
 	int price;
 	
 	private String[] bookName = {"Animal Fram", "Family Wisdom", "APJ Abdul kalam", "Harry Potter"};
@@ -19,6 +20,18 @@ public class Book {
 		this.title = title;
 		this.author = author;
 		this.price = price;
+	}
+	public Book(String ISBN, String title, String author) {
+		this.ISBN = ISBN;
+		this.title = title;
+		this.author = author;
+	}
+	public String getAuthor() {
+	    return author;
+	}
+
+    public void setAuthor(String author) {
+	    this.author = author;
 	}
 	public boolean isAvailability(String input) {
 		for(int i=0; i<bookName.length; i++) {
