@@ -1,7 +1,6 @@
 # Week 1: Git, GitHub \& Java Programming Fundamentals
 
 ## 📆 Day 1: Git & GitHub Setup  
-
 **(Date: 15 Dec 2025)**
 
 - Installed and configured Git.
@@ -31,7 +30,6 @@ BridgeLabz-Training/
 ---
 
 ## 📆 Day 2: Git Practice & Basic Java Programs  
-
 **(Date: 16 Dec 2025)**
 
 - Practiced Git workflow to understand commits and version control.
@@ -43,7 +41,6 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Day 3 – Programming Elements in Java  
-
 **(Date: 17-Dec-2025)**
 
 - Studied Java programming elements:
@@ -58,7 +55,6 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
-
 **(Date: 18-Dec-2025)**
 
 - Studied logical constructs:
@@ -80,7 +76,6 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Day 5 – Arrays & Basic Problem Solving  
-
 **(Date: 19-Dec-2025)**
 
 - Studied arrays in java:
@@ -98,7 +93,6 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 6 – Java Methods
-
 **(Date: 20-Dec-2025)**
   
  - Studied Java methods:
@@ -113,8 +107,9 @@ BridgeLabz-Training/
   
 ---
 
-### 🗓 Day 7 – Java Strings
+## 📅 Week 2: Extra programming Fundamentals & practice
 
+### 🗓 Day 7 – Java Strings
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
@@ -127,11 +122,8 @@ BridgeLabz-Training/
 🔗 **Code Link: [Strings](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** 
 
 ---
-
-## 📅 Week 2: Extra programming Fundamentals & practice
   
 ### 🗓 Day 8 – Extra Built-in Functions & String Practice  
-
 **(Date: 23-Dec-2025)**
   
 - Practiced Java built-in classes such as Math and Random.
@@ -168,4 +160,16 @@ BridgeLabz-Training/
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:[Leet-Code](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase), [Scenario-based](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-1)** 
+🔗 **Code Link: [Leet-Code](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase), [Scenario-based](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-1)** 
+
+---
+
+### 🗓 Day 10 – Scenario-Based & LeetCode Array Practice  
+**(Date: 26-Dec-2025)**
+
+- Solved **3 scenario-based problems** using Java.
+- Practiced **5 array-based problems on LeetCode**.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links: [Leet-Code](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase), [Scenario-based](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-2)**  
