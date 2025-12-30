@@ -5,7 +5,6 @@ public class MainSchoolAssociation {
     public static void main(String[] args) {
 
         School school = new School("Green Valley School");
-
         Student s1 = new Student("Rohan");
         Student s2 = new Student("Aman");
 
