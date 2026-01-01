@@ -1,114 +1,271 @@
 # BridgeLabz-Training
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+## 📘 Section A : Training Learning Progress
 
-This repository tracks my structured training and hands-on practice during the BridgeLabz program.  
-The work is organized **branch-wise**, with each branch focusing on a specific learning phase.
+### 🗓 Day 1 – Git & GitHub Setup 
+**(Date: 15-Dec-2025)**
 
----
-
-## 📌 Repository Structure
-
+- Installed and configured Git.
+- Set up GitHub repository.
 ```
 BridgeLabz-Training/
-│── core-java-practice/ # Core Java fundamentals & problem solving
-│── java-oops-practice/ # Object-Oriented Programming (upcoming)
-│── main/ # Consolidated progress & documentation
+│── core-java-practice/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extras/
+│ │ │── methods/
+│ │ │── programming-elements/
+│ │ │── programming-requisites/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
 │── README.md
 ```
+- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
+- Successfully pushed files to the remote repository.
 
 ---
 
-## 📈 Training Progress Overview
+### 🗓 Day 2 – Git Practice & Basic Java Programs  
+**(Date: 16-Dec-2025)**
 
-### ✅ Core Java Fundamentals  
-**Branch:** `core-java-practice`
+- Practiced Git workflow to understand commits and version control.
+- Solved very basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
+  
+---
 
-This branch contains hands-on practice covering Java fundamentals, problem-solving, and Git-based workflow.
+### 🗓 Day 3 – Programming Elements in Java  
+**(Date: 17-Dec-2025)**
+
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
 ---
 
-## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+### 🗓 Day 4 – Control Flow & Logical Constructs  
+**(Date: 18-Dec-2025)**
 
-### Day 1 – Git & GitHub Setup (15-Dec-2025)
-- Installed and configured Git
-- Created and structured the GitHub repository
-- Learned essential Git commands (`init`, `clone`, `add`, `commit`, `push`)
-- Successfully pushed the initial Java project structure
-
----
-
-### Day 2 – Git Practice & Basic Java Programs (16-Dec-2025)
-- Practiced Git workflow to understand commits and version control
-- Implemented basic Java programs to understand syntax and execution flow
-- Strengthened confidence in pushing incremental changes to GitHub
-
----
-
-### Day 3 – Programming Elements in Java (17-Dec-2025)
-- Java comments and coding standards
-- Primitive data types and variables
-- Operators and operator precedence
-- Type conversion and casting
-- User input using `Scanner`
-- Solved multiple foundational programs
+- Studied logical constructs in Java:
+  - if, if-else
+  - switch statement
+  - ternary operator
+- Practiced iteration statements:
+  - for loop
+  - while loop
+  - do-while loop
+- Used `break` and `continue` statements.
+- Solved logical problems such as:
+  - Factorial
+  - Prime number check
+- Committed and pushed solutions to the repository.
 
 ---
 
-### Day 4 – Control Flow & Logical Constructs (18-Dec-2025)
-- Conditional statements (`if`, `if-else`, `switch`, ternary)
-- Looping constructs (`for`, `while`, `do-while`)
-- Control statements (`break`, `continue`)
-- Solved logical problems like factorial and sum of natural numbers
+### 🗓 Day 5 – Arrays & Basic Problem Solving  
+**(Date: 20-Dec-2025)**
+
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and operations.
+- Solved problems related to:
+  - Finding missing elements
+  - Basic array-based logic
+- Strengthened logical thinking using array problems.
+- Committed and pushed solutions to the repository.
 
 ---
 
-### Day 5 – Arrays & Basic Problem Solving (19-Dec-2025)
-- Single-dimensional and multi-dimensional arrays
-- Array traversal and element manipulation
-- Logical problems including digit frequency and mean calculation
-- Improved problem-solving approach using arrays
+### 🗓 Day 6 – Java Methods  
+**(Date: 22-Dec-2025)**
+
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+--- 
+
+### 🗓 Day 7 – String manipulation 
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
 
 ---
 
-### Day 6 – Java Methods (20-Dec-2025)
-- Method declaration and invocation
-- Parameter passing
-- Reusable logic through methods
-- Implemented modular and maintainable programs
+### 🗓 Day 8 – Built-in Functions & Extra Practice  
+**(Date: 23-Dec-2025)**
+
+- Practised Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully. 
 
 ---
 
-## 📅 Week 2: Strings & Extra Programming Fundamentals
+## 🧩 Section B : Scenario-Based Problems Progress
 
-### Day 7 – Java Strings (22-Dec-2025)
-- String creation techniques
-- String immutability
-- Common `String` class methods
-- Character-level processing and manipulation
+### 🗓 Day 9 – Scenario-Based problems  
+**(Date: 24-Dec-2025)**
 
----
-
-### Day 8 – Extra Built-in Functions & Advanced String Practice (23-Dec-2025)
-- Java built-in utility classes:
-  - `Math`
-  - `Random`
-- Java 8+ Date & Time API:
-  - `LocalDate`
-  - `LocalTime`
-  - `LocalDateTime`
-  - `ZonedDateTime`
-  - `DateTimeFormatter`
-- Advanced String handling:
-  - Escape sequences
-  - String arrays
-  - Strings as method parameters
-  - ASCII character codes
-- Java Exception Handling:
-  - Exception hierarchy
-  - Checked vs unchecked exceptions
-  - `RuntimeException`
-- Implemented utility-based programs (e.g., temperature converter)
+- Solved scenario-based problems.
+- 2 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
 
 ---
 
-📌 **Note:**  
-Detailed, day-wise source code for the above progress is available in the `core-java-practice` branch.
+### 🗓 Day 11 – Scenario-Based problems  
+**(Date: 26-Dec-2025)**
+
+- Solved scenario-based problems.
+- 3 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 14 – Scenario-Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 15 – Scenario-Based problems 
+**(Date: 30-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 16 – Scenario-Based problems 
+**(Date: 31-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 11 – LeetCode problems  
+**(Date: 26-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems solved over two days.
+- 10 problems of two days.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 15 – LeetCode problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 16 – LeetCode problems  
+**(Date: 31-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 arrays problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+# 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+## 📘 Section A : Training Learning Progress
+### 🗓 Day 1 – Object and Classes  
+**(Date: 26-Dec-2025)**
+
+- Learned the working of classes and objects in java
+- Solved Object and Class based problems, level 1 and 2.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 2 – Constructors  
+**(Date: 27-Dec-2025)**
+
+- Learned the working of Constructors in java
+- (Parameterised, Non-parameterised, and Copy constructor)
+- Solved Constructor based problems from level 1.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 3 – this, final & static in Java
+**(Date: 29-Dec-2025)**
+
+- Studied Java keywords:
+   - this, static, and final
+- Understood the purpose and usage of each keyword.
+- Studied access modifiers in Java.
+- Learned instance vs class (static) variables and methods.
+- Committed and pushed all work.
+
+---
+
+### 🗓 Day 4 – Object Modeling & Real-World Design
+**(Date: 30-Dec-2025)**
+
+- Studied classes and objects and object modeling:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
+
+---
+
+## 🧩 Section B : Scenario-Based Problems Progress
+---
+## 🧮 Section C : LeetCode-based Problems Prove progress is available in the `core-java-practice` branch.
+---
