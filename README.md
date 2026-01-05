@@ -117,6 +117,29 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)  
 
+### 🗓 Day 16 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
+### 🗓 Day 16 – LeetCode-based Practice  
+**(Date: 03-Jan-2026)**
+- Practiced **3** constructors problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/constructors)
+
+### 🗓 Day 17 – LeetCode-based Practice  
+**(Date: 04-Jan-2026)**
+- Practiced **4** non-access modifiers problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/finalandstatic)
