@@ -90,7 +90,7 @@ BridgeLabz-Training/
 👉 [Inheritance and Types](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ### 🗓 Day 14 – Java Encapsulation & Polymorphism
-**(Date: 01-Dec-2026)**
+**(Date: 01-Jan-2026)**
 - Studied Encapsulation & Polymorphism:
   - Types of Polymorphism
     - Compile-Time (Static) Polymorphism
