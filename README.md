@@ -265,7 +265,71 @@ BridgeLabz-Training/
 
 ---
 
-## 🧩 Section B : Scenario-Based Problems Progress
+## 🧩 Section B: Scenario-Based Problems Progress
+
+### 🗓 Day 7 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved 5 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions. 
+
+### 🗓 Day 8 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+- Solved 2 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+### 🗓 Day 9 – Scenario-Based Practice  
+**(Date: 05-Jan-2026)**
+- Solved 2 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
 ---
-## 🧮 Section C : LeetCode-based Problems Prove progress is available in the `core-java-practice` branch.
+## 🧮 Section C: LeetCode-based Problems Progress
+
+### 🗓 Day 8 – LeetCode-based Practice  
+**(Date: 03-Jan-2026)**
+- Practiced 3 array problems.
+- added main method.
+- Committed and pushed all solutions.
+
+### 🗓 Day 9 – LeetCode-based Practice  
+**(Date: 04-Jan-2026)**
+- Practiced 4 array problems.
+- added main method.
+- Committed and pushed all solutions.
+
+---
+# 🗓 Week 3 : Data Structures & Algorithms in Java
+## 📘 Section A : Training Learning Progress
+
+### 🗓 Day 1 – Introduction to Data Structures & Algorithms
+**(Date: 02-Jan-2026)**
+- Set up and revised the `dsa-practice` branch structure.
+- Studied basics of Data Structures & Algorithms (DSA).
+- Learned why DSA is used in modern applications.
+- Studied LinkedList & its types:
+  - Singly LinkedList
+  - Doubly LinkedList 
+  - Circular Singly LinkedList
+  - Circular Doubly LinkedList
+- Understood basic operations and use cases of each.
+- Committed and pushed all work.
+ 
+### 🗓 Day 2 – Stack, Queue & HashMap
+**(Date: 05-Jan-2026)**
+- Studied core data structures:
+  - Stack
+  - Queue
+  - HashMap
+- Understood basic operations and use cases of each.
+- Committed and pushed all work.
+
+---
+## 🧩 Section B : Scenario-Based Problems Progress
+
+---
+## 🧮 Section C : LeetCode-based Problems Progress
+
 ---
