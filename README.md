@@ -39,17 +39,18 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 inbuiltfunctions/  # Keywords, instance vs class members
-│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
-│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+|   └──📁 java-oops-practice/
+│   |  └── 📁 gcr-codebase/
+│   │  |  └── 📁 JavaOopsConcepts/
+│   │  |    └── 📁 src/
+│   │  |         └── 📁 com/
+│   │  |             ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │  |             └── 📁 constructor/       # Constructor, access modifiers
+│   │  |             └── 📁 inbuiltfunctions/  # Keywords, instance vs class members
+│   │  |            └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │  |             └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │  |            └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   |  ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 └── 📁 dsa-practice/
@@ -101,6 +102,7 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|----------------------------------------|
 |  15 | 02-Jan      | DSA Basics & LinkedList        | DSA concepts, LinkedList and its types |
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
+|  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
 
 ---
 
@@ -160,7 +162,7 @@ BridgeLabz-Training/
 - 📌 [Linked Lists](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)
 - 📌 [Stacks and Queues](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
 - 📌 [HashMaps and Hash Functions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapandhashfunctions)
-- 📌 [Sorting Algorithms]()
+- 📌 [Sorting Algorithms](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 ---
 
 ## 🎓 Learnings & Best Practices
