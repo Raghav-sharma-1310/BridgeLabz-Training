@@ -44,6 +44,21 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [Stack, Queue & HashMap](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
 
+### 🗓 Day 17 – Sorting Algorithms
+**(Date: 05-Jan-2026)**
+- Studied Sorting Algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+  - Heap Sort
+  - Counting Sort
+- Understood algorithms and solved problem on each.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Sorting Algorithms](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
@@ -51,3 +66,4 @@ BridgeLabz-Training/
 ## 🧮 Section C : LeetCode-based Problems Progress
 
 ---
+
