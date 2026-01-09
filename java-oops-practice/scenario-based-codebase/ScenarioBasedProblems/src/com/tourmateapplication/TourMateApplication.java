@@ -14,7 +14,7 @@ Requirements :
 ● Polymorphism: book() logic differs based on trip type.
 */
 
-package com.day06.tourmateapplication;
+package com.tourmateapplication;
 
 import java.util.Scanner;
 

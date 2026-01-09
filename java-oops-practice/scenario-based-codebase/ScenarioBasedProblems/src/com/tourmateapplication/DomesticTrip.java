@@ -1,4 +1,4 @@
-package com.day06.tourmateapplication;
+package com.tourmateapplication;
 
 public class DomesticTrip extends Trip {
 

@@ -1,4 +1,4 @@
-package com.day06.tourmateapplication;
+package com.tourmateapplication;
 
 // Defines booking operations for trip services
 public interface IBookable {

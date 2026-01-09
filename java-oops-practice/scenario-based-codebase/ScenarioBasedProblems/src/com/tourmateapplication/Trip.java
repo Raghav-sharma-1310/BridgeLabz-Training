@@ -1,4 +1,4 @@
-package com.day06.tourmateapplication;
+package com.tourmateapplication;
 
 public abstract class Trip implements IBookable {
 
