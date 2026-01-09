@@ -141,9 +141,17 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
 
-### 🗓 Day 18 – Scenario-Based Practice  
+### 🗓 Day 19 – Scenario-Based Practice  
 **(Date: 07-Jan-2026)**
 - Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+### 🗓 Day 20 – Scenario-Based Practice  
+**(Date: 08-Jan-2026)**
+- Solved **2** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
@@ -184,10 +192,20 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/encapsulation)
 
-### 🗓 Day 19 – LeetCode-based Practice  
+### 🗓 Day 20 – LeetCode-based Practice  
 **(Date: 07-Jan-2026)**
 - Practiced **2** class object problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/objectmodeling)
+
+### 🗓 Day 21 – LeetCode-based Practice  
+**(Date: 08-Jan-2026)**
+- Practiced **2** polymorphism problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/polymorphism)
+
+---
