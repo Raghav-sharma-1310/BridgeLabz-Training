@@ -12,7 +12,7 @@ Requirements:
 ● Access Modifiers: make sensitive pricing logic private.
 */
 
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 import java.util.Scanner;
 

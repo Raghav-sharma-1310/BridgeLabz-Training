@@ -1,4 +1,4 @@
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 // Preserved medicine (longer shelf life)
 public class Tablet extends Medicine {

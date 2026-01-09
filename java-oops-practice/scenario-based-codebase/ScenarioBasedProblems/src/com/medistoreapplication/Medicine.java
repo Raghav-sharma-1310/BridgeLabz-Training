@@ -1,4 +1,4 @@
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 //Base class for all medicines
 public abstract class Medicine implements ISellable {

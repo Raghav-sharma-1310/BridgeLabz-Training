@@ -1,4 +1,4 @@
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 // Defines selling and expiry checks
 public interface ISellable {

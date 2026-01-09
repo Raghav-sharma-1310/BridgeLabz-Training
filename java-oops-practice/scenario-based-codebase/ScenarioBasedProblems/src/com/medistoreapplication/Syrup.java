@@ -1,4 +1,4 @@
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 // Liquid medicine (stricter expiry)
 public class Syrup extends Medicine {

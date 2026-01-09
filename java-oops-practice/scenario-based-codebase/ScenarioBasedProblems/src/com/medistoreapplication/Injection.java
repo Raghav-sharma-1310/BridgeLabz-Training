@@ -1,4 +1,4 @@
-package com.day06.medistoreapplication;
+package com.medistoreapplication;
 
 // Injection medicine (no discount)
 public class Injection extends Medicine {
