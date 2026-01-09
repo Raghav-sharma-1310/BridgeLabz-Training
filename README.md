@@ -47,11 +47,11 @@ BridgeLabz-Training/
 │   │  |             ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
 │   │  |             └── 📁 constructor/       # Constructor, access modifiers
 │   │  |             └── 📁 inbuiltfunctions/  # Keywords, instance vs class members
-│   │  |            └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │  |             └── 📁 objectmodeling/    # Diagrams, relationships, communication
 │   │  |             └── 📁 inheritance/       # Types, method overriding, & access modifiers
-│   │  |            └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-│   |  ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
+│   │  |             └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   |  ├── 📁 leet-code-codebase/              # LeetCode solutions
+│   └── 📁 scenario-based-codebase/            # Real-world problems
 |
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
@@ -62,7 +62,8 @@ BridgeLabz-Training/
 │   │               └── 📁 stacksandqueues/             # Last-In-First-Out (LIFO) and First-In-First-Out (FIFO)
 │   │               └── 📁 hashmapsandhashfunctions/    # Key-Value pairs
 │   │               └── 📁 sorting/                     # Sorting algorithms
-|   |               └── 📁 linearandbinarysearch/                             # Searching algorithms
+|   |               └── 📁 linearandbinarysearch/       # Searching algorithms
+|   |               └── 📁 analysis/                    # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                          # LeetCode solutions
 │   └── 📁 scenario-based-codebase/                     # Real-world problems
 |
@@ -105,6 +106,7 @@ BridgeLabz-Training/
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
 |  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
 ---
 
@@ -137,6 +139,7 @@ BridgeLabz-Training/
 - **Searching**: Linear Search and Binary Search algorithms
 - **String Utilities**: StringBuilder and StringBuffer for mutable strings
 - **File Handling**: Reading input using FileReader and InputStreamReader
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 
 ---
 
@@ -169,6 +172,7 @@ BridgeLabz-Training/
 - 📌 [HashMaps and Hash Functions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapandhashfunctions)
 - 📌 [Sorting Algorithms](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 ---
 
 ## 🎓 Learnings & Best Practices
