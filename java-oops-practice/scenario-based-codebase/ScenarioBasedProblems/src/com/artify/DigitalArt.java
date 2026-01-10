@@ -1,0 +1,14 @@
+package com.artify;
+
+class DigitalArt extends Artwork {
+
+    public DigitalArt(String title, String artist, double price, String licenseType) {
+        super(title, artist, price, licenseType);
+    }
+
+    @Override
+    public void license() {
+        System.out.println("Digital License Applied: " + licenseType +
+                " (Personal use, no redistribution)");
+    }
+}
