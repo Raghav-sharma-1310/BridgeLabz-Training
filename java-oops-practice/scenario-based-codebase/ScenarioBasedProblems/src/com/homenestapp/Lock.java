@@ -1,4 +1,4 @@
-package com.day08.homenestapp;
+package com.homenestapp;
 
 public class Lock extends SmartDevice {
 

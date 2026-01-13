@@ -1,4 +1,4 @@
-package com.day08.homenestapp;
+package com.homenestapp;
 
 public abstract class SmartDevice implements IControllable {
 	private final String deviceId;

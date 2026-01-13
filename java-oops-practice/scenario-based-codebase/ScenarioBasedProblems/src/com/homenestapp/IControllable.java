@@ -1,4 +1,4 @@
-package com.day08.homenestapp;
+package com.homenestapp;
 
 public interface IControllable {
 	void turnOn();

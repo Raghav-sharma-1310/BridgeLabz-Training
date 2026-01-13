@@ -13,7 +13,7 @@ Requirements:
 	● Use access modifiers to secure firmware update logs.
 */
 
-package com.day08.homenestapp;
+package com.homenestapp;
 
 public class HomeNestApp {
 	public static void main(String[] args) {

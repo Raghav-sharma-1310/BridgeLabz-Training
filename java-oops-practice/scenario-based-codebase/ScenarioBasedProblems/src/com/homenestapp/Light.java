@@ -1,4 +1,4 @@
-package com.day08.homenestapp;
+package com.homenestapp;
 
 public class Light extends SmartDevice {
 	// On scale of 0 to 100
