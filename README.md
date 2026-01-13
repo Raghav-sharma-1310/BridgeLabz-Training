@@ -173,6 +173,7 @@ BridgeLabz-Training/
 - 📌 [Sorting Algorithms](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
 - 📌 [Time & Space Complexity Analysis](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
+- 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
 ---
 
 ## 🎓 Learnings & Best Practices
