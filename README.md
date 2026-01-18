@@ -51,7 +51,7 @@ BridgeLabz-Training/
 │   │  |             └── 📁 inheritance/       # Types, method overriding, & access modifiers
 │   │  |             └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 │   |  ├── 📁 leet-code-codebase/              # LeetCode solutions
-│   └── 📁 scenario-based-codebase/            # Real-world problems
+│   |  └── 📁 scenario-based-codebase/         # Real-world problems
 |
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
@@ -67,6 +67,17 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                          # LeetCode solutions
 │   └── 📁 scenario-based-codebase/                     # Real-world problems
 |
+└── 📁 java-collections-practice/
+|   └── 📁 java-collections-practice/
+|   |   └── 📁 gcr-codebase/
+|   |   |   └── 📁 JavaCollectionsProblem/
+|   |   |       └── 📁 src/
+|   |   |           └── 📁 com/
+|   |   |                ├── 📁 generics/             # Java generics basics
+|   |   |                ├── 📁 collections/          # List, Set, Map and Queue Interfaces
+|   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/               # Real-world problems
+|   
 └── README.md
 ```
 
@@ -108,6 +119,12 @@ BridgeLabz-Training/
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
+### **Week 4 : Java Caollection Framework**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|     |             |                                |                                        |
+|     |             |                                |                                        |
 ---
 
 ##  Key Concepts Covered
@@ -140,6 +157,10 @@ BridgeLabz-Training/
 - **String Utilities**: StringBuilder and StringBuffer for mutable strings
 - **File Handling**: Reading input using FileReader and InputStreamReader
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
+- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving.
+
+### Java Caollection Framework (java-collections-practice)
 
 ---
 
