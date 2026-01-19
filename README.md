@@ -118,13 +118,15 @@ BridgeLabz-Training/
 |  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
 ### **Week 4 : Java Caollection Framework**
 
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|     |             |                                |                                        |
-|     |             |                                |                                        |
+| Day |     Date    | Topic                          | Coverage                                                              |
+|-----|-------------|--------------------------------|-----------------------------------------------------------------------|
+|  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
+|  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces                                   |
 ---
 
 ##  Key Concepts Covered
@@ -195,6 +197,10 @@ BridgeLabz-Training/
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
 - 📌 [Time & Space Complexity Analysis](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 - 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+### `java-collections-practice` : 
+- 📌 [Generics](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
+- 📌 [Collections](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
 ---
 
 ## 🎓 Learnings & Best Practices
