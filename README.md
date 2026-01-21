@@ -78,6 +78,7 @@ BridgeLabz-Training/
 |   |   |           └── 📁 com/
 |   |   |                ├── 📁 generics/             # Java generics basics
 |   |   |                ├── 📁 collections/          # List, Set, Map and Queue Interfaces
+|   |   |                ├── 📁 streams/              # I/O streams, buffering, and serialization
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
 |   
@@ -130,6 +131,8 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|-----------------------------------------------------------------------|
 |  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
 |  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces                                   |
+|  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
+
 ---
 
 ##  Key Concepts Covered
@@ -166,6 +169,15 @@ BridgeLabz-Training/
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving.
 
 ### Java Caollection Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 
 ---
 
@@ -204,6 +216,8 @@ BridgeLabz-Training/
 ### `java-collections-practice` : 
 - 📌 [Generics](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
 - 📌 [Collections](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
+- 📌 [IO-Streams](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/streams)
+  
 ---
 
 ## 🎓 Learnings & Best Practices
