@@ -22,6 +22,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-collections-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Java Collections Framework
 
+### 🔹 [java-collections-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O streams
+
 ---
 
 ## 📂 Project Structure
@@ -79,10 +82,25 @@ BridgeLabz-Training/
 |   |   |                ├── 📁 generics/             # Java generics basics
 |   |   |                ├── 📁 collections/          # List, Set, Map and Queue Interfaces
 |   |   |                ├── 📁 streams/              # I/O streams, buffering, and serialization
-|   |   |                ├── 📁 exceptionhandling/    # checked, unchecked and custom exceptions 
+|   |   |                ├── 📁 exceptionhandling/    # checked, unchecked and custom exceptions
+│   │   |                ├── 📁 regex/                # Pattern matching, validation rules, groups & quantifiers
+│   │   |                ├── 📁 junit/                # Unit testing, assertions, test lifecycle, test cases
+│   │   |                ├── 📁 reflection/           # Runtime inspection, dynamic invocation, proxies
+│   │   |                ├── 📁 annotations/          # Built-in & custom annotations, processors
+|   |   |                └── 📁 customannotations/    # Custom annotations- basic, intermediate and advanced level 
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
-|   
+|
+└── 📁 java-iostreams-practice/
+|   └── 📁 java-iostreams-practice/
+|   |   └── 📁 gcr-codebase/
+|   |   |   └── 📁 IOStreamsConcepts/
+|   |   |       └── 📁 src/
+|   |   |           └── 📁 com/
+|   |   |               ├── 📁 csvdata/        # CSV Data Handling
+|   |   |
+|   |   ├── 📁 leet-code-codebase/             # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/        # Real-world problems
 └── README.md
 ```
 
@@ -134,7 +152,14 @@ BridgeLabz-Training/
 |  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces                                   |
 |  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
 |  25 | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested        |
+|  26 | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions       |
+|  27 | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies            |
 
+## 🗓 Week 5 : Java I/O Streams
+
+| Day |     Date    | Topic                          | Coverage                                                     |
+|-----|-------------|--------------------------------|--------------------------------------------------------------|
+|  28 | 23-Jan      | CSV Data Handling              | Introduction, Reading, Writing, Parsing and  Data Validation |
 
 ---
 
@@ -182,7 +207,12 @@ BridgeLabz-Training/
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
+### Java IOStreams (java-iostreams-practice)
+- **CSV Data Handling**: Introduction, Reading, Writing, Parsing and  Data Validation of CSV Files
 
 ---
 
@@ -223,6 +253,15 @@ BridgeLabz-Training/
 - 📌 [Collections](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
 - 📌 [IO-Streams](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/streams)
 - 📌 [Exception-Handling](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/exceptionhandling)
+- 📌 [Regex](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/regex)
+- 📌 [JUnit](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/junit)
+- 📌 [Reflection](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/reflection)
+- 📌 [Annotations](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/annotations)
+- 📌 [Custom_Annotations](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/customannotations)
+- 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+### `java-iostreams-practice` :
+- 📌 [CSV_File_Data](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
   
 ---
 
