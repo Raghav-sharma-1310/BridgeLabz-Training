@@ -68,3 +68,6 @@ coverage/
 *.pem
 *.crt
 *.key
+
+# Ignore Maven wrapper folder (optional)
+.mvn/
