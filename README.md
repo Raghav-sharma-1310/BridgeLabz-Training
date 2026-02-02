@@ -307,6 +307,7 @@ BridgeLabz-Training/
 - 📌 [StreamAPI](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
 - 📌 [Collectors](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/collectors)
 - 📌 [WorkShop](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
+- 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/employeemanagementsystem)
    
 ---
 
