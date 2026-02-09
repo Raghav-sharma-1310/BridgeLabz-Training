@@ -28,6 +28,12 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java8-programming-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6** : Java 8 Features
 
+### 🔹 [java-design-pattern-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
+### 🔹 [dbms-jdbc-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8** : DBMS, SQL & JDBC Fundamentals
+
 ---
 
 ## 📂 Project Structure
@@ -120,6 +126,35 @@ BridgeLabz-Training/
 |   |    |                └── 📁 smartcitymanagementsystem/   # workshop based on the java8 features
 │   |    ├── 📁 leet-code-codebase/                           # LeetCode solutions
 │   |    └── 📁 scenario-based-codebase/                      # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+|   ├── 📁 java-design-pattern-practice/
+|   |   ├── 📁 gcr-codebase/
+│   |   │   └── 📁 DesignPatternConcepts/
+│   │   |        └── 📁 src/
+│   │   |            └── 📁 com/
+│   │   |                ├── 📁 designprinciples/    # SOLID principles and design patterns
+│   │   |                └── 📁 multithreading/      # Thread lifecycle, synchronization, concurrency examples 
+|   |   |
+│   |   ├── 📁 leet-code-codebase/                   # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/              # Real-world problems
+|
+├── 📁 dbms-jdbc-practice/
+|   ├── 📁 dbms-jdbc-practice/
+│   |   ├── 📁 gcr-codebase/
+│   │   |    └── 📁 DbmsJdbcConcepts/
+│   │   |        ├── 📁 src/
+│   │   |        │   └── 📁 main/
+│   │   |        │       └── 📁 java/
+│   │   |        │           └── 📁 com/
+│   │   |        │               └── 📁 librarymanagement/     # Sql queries for library management program
+│   │   |        │               └── 📁 simplecrud/            # Sql queries for Simple CRUD program
+│   │   |        │               └── 📁 transactionmanagement/ # Sql queries for Transaction management program
+│   │   |        └── pom.xml                                   # Maven configuration and dependency management
+│   │   |
+│   |   ├── 📁 leet-code-codebase/                             # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/                        # Real-world problems
+|
 └── README.md
 ```
 
@@ -187,6 +222,17 @@ BridgeLabz-Training/
 |  30 | 27-Jan      | Lambdas, method references & interfaces  | Lambdas expressions, method references and interfaces               |
 |  31 | 28-Jan      | Stream API, Collectors and workshop      | Stream creation, filter, map, reduce, Collectors, hands-on workshop |
 
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+| 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
+### **Week 8 : DBMS, SQL & JDBC Fundamentals**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+
 
 ---
 
@@ -248,6 +294,26 @@ BridgeLabz-Training/
 - **Method References**: Static, instance, and constructor references
 - **Interface Enhancements**: Default and static methods
 - **Collectors**: groupingBy, mapping, averaging, summarizing
+- **Workshop**: Real-world data processing using streams
+- **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
 
 ---
 
@@ -308,6 +374,14 @@ BridgeLabz-Training/
 - 📌 [Collectors](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/collectors)
 - 📌 [WorkShop](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
 - 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/employeemanagementsystem)
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designprinciples/librarycasestudy)
+- 📌 [Multithreading](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
+
+### `dbms-jdbc-practice` :
+- 📌 [DBMS, MySQL & SQL](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/main/java/com)
+- 📌 [Scenario-Based Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/day01)
    
 ---
 
