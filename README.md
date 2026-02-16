@@ -1,6 +1,6 @@
 # BridgeLabz Training Journey
 
-> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+> A comprehensive Java programming training repository covering Core Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Collections Framework, Java I/O Streams, Java 8 features, Design Principles & Patterns, Multithreading, and DBMS with SQL & JDBC.
 
 ##  Training Overview
 
@@ -144,16 +144,19 @@ BridgeLabz-Training/
 │   |   ├── 📁 gcr-codebase/
 │   │   |    └── 📁 DbmsJdbcConcepts/
 │   │   |        ├── 📁 src/
-│   │   |        │   └── 📁 main/
-│   │   |        │       └── 📁 java/
-│   │   |        │           └── 📁 com/
-│   │   |        │               └── 📁 librarymanagement/     # Sql queries for library management program
-│   │   |        │               └── 📁 simplecrud/            # Sql queries for Simple CRUD program
-│   │   |        │               └── 📁 transactionmanagement/ # Sql queries for Transaction management program
-│   │   |        └── pom.xml                                   # Maven configuration and dependency management
+│   │   |        │   ├── 📁 main/
+│   │   |        │   |    └── 📁 java/
+│   │   |        │   |        └── 📁 com/
+│   │   |        │   |            └── 📁 sql/                         # Sql queries 
+│   │   |        │   |            └── 📁 jdbc/                        # JDBC Basic Programs
+|   |   |        |   └── 📁 Test/
+|   |   |        |        └── 📁 java/
+|   |   |        |            └── 📁 com/
+|   |   |        |                └── 📁 Studentmanagementsyatem/     # student management syatem testing
+│   │   |        └── pom.xml                                          # Maven configuration and dependency management
 │   │   |
-│   |   ├── 📁 leet-code-codebase/                             # LeetCode solutions
-│   |   └── 📁 scenario-based-codebase/                        # Real-world problems
+│   |   ├── 📁 leet-code-codebase/                   # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/              # Real-world problems
 |
 └── README.md
 ```
@@ -232,6 +235,7 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+| 35  | 09-Feb      | JDBC Fundamentals, Connectivity| JDBC architecture, CRUD operations, transactions, DAO/DTO patterns  |
 
 
 ---
@@ -314,6 +318,10 @@ BridgeLabz-Training/
 - **Advanced Queries**: Subqueries, CTEs, window functions
 - **Indexing**: Clustered, non-clustered, composite, full-text
 - **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
 
 ---
 
@@ -380,7 +388,8 @@ BridgeLabz-Training/
 - 📌 [Multithreading](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
 
 ### `dbms-jdbc-practice` :
-- 📌 [DBMS, MySQL & SQL](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/main/java/com)
+- 📌 [DBMS, MySQL & SQL](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/main/java/com/sql)
+- 📌 [JDBC](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/main/java/com/jdbc)
 - 📌 [Scenario-Based Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/day01)
    
 ---
